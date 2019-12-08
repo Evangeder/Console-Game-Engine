@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Users\Dell\source\repos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\Dell\source\repos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\Dell\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\Dell\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
+C:\Users\Dell\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.Properties.Resources.resources
+C:\Users\Dell\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.GenerateResource.cache
